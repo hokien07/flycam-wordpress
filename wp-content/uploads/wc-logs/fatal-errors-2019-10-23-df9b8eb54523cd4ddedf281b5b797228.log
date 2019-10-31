@@ -1,0 +1,215 @@
+2019-10-23T02:30:07+00:00 CRITICAL syntax error, unexpected ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/html5blank-stable/woocommerce.php on line 5
+
+2019-10-23T03:12:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Simple::name() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/content-single-product.php:14
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template.php(724): require()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/wc-core-functions.php(195): load_template('/Volumes/WORK/D...', false)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce.php(9): wc_get_template_part('content', 'single-product')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#5 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#6 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/content-single-product.php on line 14
+
+2019-10-23T05:00:19+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/content-single-product.php on line 22
+
+2019-10-23T06:29:33+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 88
+
+2019-10-23T06:29:50+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 88
+
+2019-10-23T06:30:01+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 88
+
+2019-10-23T06:30:01+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 88
+
+2019-10-23T06:30:06+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 88
+
+2019-10-23T08:09:41+00:00 CRITICAL syntax error, unexpected '}', expecting end of file in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 83
+
+2019-10-23T08:49:36+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/page.php on line 16
+
+2019-10-23T09:43:46+00:00 CRITICAL syntax error, unexpected '<' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 27
+
+2019-10-23T09:43:54+00:00 CRITICAL syntax error, unexpected '<' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 27
+
+2019-10-23T09:44:08+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 27
+
+2019-10-23T09:44:18+00:00 CRITICAL syntax error, unexpected 'var_dump' (T_STRING) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 27
+
+2019-10-23T09:45:30+00:00 CRITICAL syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 29
+
+2019-10-23T09:45:36+00:00 CRITICAL syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 29
+
+2019-10-23T09:56:39+00:00 CRITICAL Uncaught Error: Call to undefined function json_endcode() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php:1
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-cart.php(93): wc_get_template('cart/cart.php')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Cart::output(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(85): WC_Shortcodes::shortcode_wrapper(Array)
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/shortcodes.php(325): WC_Shortcodes::cart('', '', 'woocommerce_car...')
+#5 [internal function]: do_shortcode_tag(Array)
+#6 /Volumes/WORK/DEVELOP/PHP/Word in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/cart/cart.php on line 1
+
+2019-10-23T10:11:12+00:00 CRITICAL Uncaught Error: Call to undefined function json_endcode() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:36
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 36
+
+2019-10-23T10:12:56+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 36
+
+2019-10-23T10:13:00+00:00 CRITICAL syntax error, unexpected ')', expecting ',' or ';' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 36
+
+2019-10-23T10:17:02+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:42
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 42
+
+2019-10-23T10:17:37+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:38
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 38
+
+2019-10-23T10:19:59+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:38
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 38
+
+2019-10-23T10:21:57+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:37
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 37
+
+2019-10-23T10:22:48+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:37
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 37
+
+2019-10-23T10:22:50+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:37
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 37
+
+2019-10-23T10:28:52+00:00 CRITICAL syntax error, unexpected '{' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 40
+
+2019-10-23T10:31:31+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:43
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 43
+
+2019-10-23T10:31:46+00:00 CRITICAL Uncaught Error: Call to undefined function wp_send_json_succes() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:43
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): remove_cart_item_init('')
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(173): do_action('wp_ajax_remove_...')
+#4 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 43
+
+2019-10-23T10:35:54+00:00 CRITICAL syntax error, unexpected end of file in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/page.php on line 19
+
+2019-10-23T10:44:40+00:00 CRITICAL Uncaught Error: Call to undefined function base_url() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/checkout/form-checkout.php:62
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/wc-core-functions.php(249): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(285): wc_get_template('checkout/form-c...', Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-checkout.php(67): WC_Shortcode_Checkout::checkout()
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(72): WC_Shortcode_Checkout::output('')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php(95): WC_Shortcodes::shortcode_wrapper(Array, '')
+#5 /Volume in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/woocommerce/checkout/form-checkout.php on line 62
+
+2019-10-23T12:45:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php:152
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#3 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php on line 152
+
+2019-10-23T12:45:58+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php:152
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#3 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php on line 152
+
+2019-10-23T12:46:26+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php:154
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#3 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php on line 154
+
+2019-10-23T12:48:48+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php:154
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#3 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php on line 154
+
+2019-10-23T12:49:04+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on int in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php:156
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/template-loader.php(78): include()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(19): require_once('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#3 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/index.php on line 156
+
+2019-10-23T13:00:10+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 87
+
+2019-10-23T13:00:48+00:00 CRITICAL syntax error, unexpected ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 89
+
+2019-10-23T13:01:52+00:00 CRITICAL syntax error, unexpected 'add_new_item' (T_STRING), expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 64
+
+2019-10-23T13:02:07+00:00 CRITICAL syntax error, unexpected 'add_new_item' (T_STRING), expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 64
+
+2019-10-23T13:02:23+00:00 CRITICAL syntax error, unexpected 'add_new_item' (T_STRING), expecting ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 64
+
+2019-10-23T16:10:19+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:97) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 224
+
+2019-10-23T16:12:19+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:97) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 224
+
+2019-10-23T16:14:19+00:00 CRITICAL Cannot redeclare testimonials_edit_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:147) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 255
+
+2019-10-23T16:16:20+00:00 CRITICAL Cannot redeclare testimonials_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:160) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 268
+
+2019-10-23T16:56:39+00:00 CRITICAL Cannot redeclare questions_save_post() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:211) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 337
+
+2019-10-23T17:03:42+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:98) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 321
+
+2019-10-23T17:04:26+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:98) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 321
+
+2019-10-23T17:04:27+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:98) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 321
+

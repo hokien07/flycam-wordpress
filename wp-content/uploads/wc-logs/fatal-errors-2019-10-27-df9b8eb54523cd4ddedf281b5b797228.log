@@ -1,0 +1,8 @@
+2019-10-27T11:58:27+00:00 CRITICAL Cannot redeclare register_html5_menu() (previously declared in C:\xampp\htdocs\flycam\wp-content\themes\flycam\functions.php:45) in C:\xampp\htdocs\flycam\wp-content\themes\flycam\theme-function.php on line 11
+
+2019-10-27T11:58:57+00:00 CRITICAL Cannot redeclare register_html5_menu() (previously declared in C:\xampp\htdocs\flycam\wp-content\themes\flycam\functions.php:45) in C:\xampp\htdocs\flycam\wp-content\themes\flycam\theme-function.php on line 15
+
+2019-10-27T12:17:30+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\xampp\htdocs\flycam\wp-content\themes\flycam\header.php on line 69
+
+2019-10-27T12:17:37+00:00 CRITICAL syntax error, unexpected ';', expecting ',' or ')' in C:\xampp\htdocs\flycam\wp-content\themes\flycam\header.php on line 69
+

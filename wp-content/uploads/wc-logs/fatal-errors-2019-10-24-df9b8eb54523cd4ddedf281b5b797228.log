@@ -1,0 +1,122 @@
+2019-10-24T00:00:32+00:00 CRITICAL Uncaught Error: Call to undefined function add_submenu_page() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:95
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/functions.php(15): require_once()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-settings.php(499): include('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-config.php(90): require_once('/Volumes/WORK/D...')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-load.php(37): require_once('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(22): require_once('/Volumes/WORK/D...')
+#5 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 95
+
+2019-10-24T00:00:45+00:00 CRITICAL Uncaught Error: Call to undefined function add_submenu_page() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:95
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/functions.php(15): require_once()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-settings.php(499): include('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-config.php(90): require_once('/Volumes/WORK/D...')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-load.php(37): require_once('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin.php(34): require_once('/Volumes/WORK/D...')
+#5 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/index.php(10): require_once('/Volumes/WORK/D...')
+#6 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 95
+
+2019-10-24T00:00:52+00:00 CRITICAL Uncaught Error: Call to undefined function add_submenu_page() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:95
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/functions.php(15): require_once()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-settings.php(499): include('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-config.php(90): require_once('/Volumes/WORK/D...')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-load.php(37): require_once('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin.php(34): require_once('/Volumes/WORK/D...')
+#5 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/index.php(10): require_once('/Volumes/WORK/D...')
+#6 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 95
+
+2019-10-24T00:01:20+00:00 CRITICAL Uncaught Error: Call to undefined function add_submenu_page() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:129
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/functions.php(15): require_once()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-settings.php(499): include('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-config.php(90): require_once('/Volumes/WORK/D...')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-load.php(37): require_once('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-blog-header.php(13): require_once('/Volumes/WORK/D...')
+#5 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/index.php(17): require('/Volumes/WORK/D...')
+#6 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 129
+
+2019-10-24T00:02:21+00:00 CRITICAL Uncaught Error: Call to undefined function add_submenu_page() in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:129
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/functions.php(15): require_once()
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-settings.php(499): include('/Volumes/WORK/D...')
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-config.php(90): require_once('/Volumes/WORK/D...')
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-load.php(37): require_once('/Volumes/WORK/D...')
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/admin-ajax.php(22): require_once('/Volumes/WORK/D...')
+#5 {main}
+  thrown in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 129
+
+2019-10-24T00:17:50+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 485
+
+2019-10-24T00:18:06+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 485
+
+2019-10-24T00:20:07+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 484
+
+2019-10-24T00:21:19+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 484
+
+2019-10-24T00:21:19+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 484
+
+2019-10-24T00:21:31+00:00 CRITICAL Cannot redeclare feature_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:337) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 484
+
+2019-10-24T00:21:40+00:00 CRITICAL Cannot redeclare feature_save_post() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:388) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 519
+
+2019-10-24T00:21:59+00:00 CRITICAL Cannot redeclare feature_edit_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:424) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 531
+
+2019-10-24T00:24:19+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:542
+Stack trace:
+#0 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(286): sliders_columns('sliders-image', 80)
+#1 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#2 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/includes/class-wp-posts-list-table.php(1244): do_action('manage_posts_cu...', 'sliders-image', 80)
+#4 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/includes/class-wp-list-table.php(1332): WP_Posts_List_Table->column_default(Object(WP_Post), 'sliders-image')
+#5 /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-admin/includes/class-wp-posts-list-table.php(1290): WP_List_Table->single_row_columns(Obj in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 542
+
+2019-10-24T00:55:46+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T00:57:49+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T00:59:55+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:02:07+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:04:10+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:06:14+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:08:15+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:10:26+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:12:26+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:14:29+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:466) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 592
+
+2019-10-24T01:16:29+00:00 CRITICAL Cannot redeclare sliders_save_post() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:498) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 627
+
+2019-10-24T01:18:30+00:00 CRITICAL Cannot redeclare sliders_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:545) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 654
+
+2019-10-24T01:18:50+00:00 CRITICAL Cannot redeclare sliders_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:553) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 662
+
+2019-10-24T01:18:51+00:00 CRITICAL Cannot redeclare sliders_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:553) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 662
+
+2019-10-24T03:12:22+00:00 CRITICAL syntax error, unexpected ')' in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 615
+
+2019-10-24T05:08:57+00:00 CRITICAL Cannot redeclare testimonials_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:75) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 262
+
+2019-10-24T05:10:56+00:00 CRITICAL Cannot redeclare testimonials_meta_boxes() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:109) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 268
+
+2019-10-24T05:12:56+00:00 CRITICAL Cannot redeclare testimonials_save_post() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:140) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 302
+
+2019-10-24T05:15:48+00:00 CRITICAL Cannot redeclare sliders_post_type() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:233) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 352
+
+2019-10-24T05:17:48+00:00 CRITICAL Cannot redeclare testimonials_form() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:114) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 384
+
+2019-10-24T05:19:48+00:00 CRITICAL Cannot redeclare sliders_edit_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:294) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 424
+
+2019-10-24T05:21:48+00:00 CRITICAL Cannot redeclare sliders_columns() (previously declared in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php:306) in /Volumes/WORK/DEVELOP/PHP/Wordpress_Projects/camera/wp-content/themes/flycam/theme-function.php on line 446
+
